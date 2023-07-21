@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "nombre_proyecto": "Sitio de Presentacion",
+      "tecnologias": "Javascript, CSS, HTML",
+      "fecha_lanzamiento": "12/12/1212",
+      "detalle": "Primer proyecto de mi carrera basado en mi atracción por el cosmos y el universo y también en un poco de como soy.",
+      "github": "/",
+      "url": "/"
+    },
+    {
+      "id": 2,
+      "nombre_proyecto": "AirportShuttleCr.Com",
+      "tecnologias": "Astro, React, Tailwind CSS, CSS",
+      "fecha_lanzamiento": "12/12/12",
+      "detalle": "Primer proyecto de paga, se realizó con el fin de atraer más clientes extranjeros a una empresa de tranporte turístico en Costa Rica",
+      "github": "/",
+      "url": "/"
+    },
+    {
+      "id": 3,
+      "nombre_proyecto": "Vuelos.com",
+      "tecnologias": "React, Material UI, CSS",
+      "fecha_lanzamiento": "12/12/12",
+      "detalle": "Proyecto universitario creado para el area administrativa de una empresa de Venta de vuelos en linea.",
+      "github": "/",
+      "url": "/"
+    }
+  ]
